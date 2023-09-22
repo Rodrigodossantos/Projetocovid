@@ -1,0 +1,2824 @@
+﻿IDADE;MUNICIPIO_RESIDENCIA;COMORBIDADE
+79;Patos de Minas;SIM
+82;Belo Horizonte;SIM
+66;Belo Horizonte;SIM
+44;Mariana;NÃO
+80;Uberlândia;SIM
+72;Ouro Fino;NÃO
+76;Belo Horizonte;NÃO
+69;Montes Claros;NÃO
+61;Uberlândia;SIM
+92;Belo Horizonte;SIM
+88;Paraisópolis;SIM
+78;Pouso Alegre;SIM
+59;Varginha;SIM
+82;Belo Horizonte;SIM
+60;Belo Horizonte;SIM
+70;Juiz de Fora;SIM
+46;Divinópolis;NÃO
+73;Uberaba;SIM
+79;Paraisópolis;SIM
+24;Itabira;SIM
+71;Juiz de Fora;SIM
+68;Governador Valadares;SIM
+84;Pouso Alegre;SIM
+81;Patrocínio;SIM
+65;Uberlândia;SIM
+72;Uberlândia;NÃO
+62;Governador Valadares;SIM
+34;São Tomás de Aquino;SIM
+78;Piumhi;SIM
+64;Uberaba;SIM
+68;Bonfim;SIM
+72;Belo Horizonte;SIM
+76;Belmiro Braga;SIM
+69;Belo Horizonte;SIM
+68;Nanuque;SIM
+72;São Sebastião do Paraíso;SIM
+72;Três Pontas;SIM
+81;Nova Serrana;SIM
+67;Poços de Caldas;SIM
+46;Extrema;SIM
+55;Espinosa;SIM
+75;Varzelândia;SIM
+84;Cataguases;SIM
+72;Uberaba;SIM
+75;São Francisco;SIM
+74;Belo Horizonte;SIM
+38;Uberlândia;SIM
+58;Morro da Garça;SIM
+53;Novo Cruzeiro;SIM
+54;São Geraldo da Piedade;SIM
+64;Contagem;SIM
+71;Santos Dumont;SIM
+86;Belo Horizonte;NÃO
+59;Belo Horizonte;SIM
+53;Contagem;NÃO
+91;Juiz de Fora;SIM
+95;Belo Vale;SIM
+74;Uberlândia;SIM
+75;Governador Valadares;SIM
+82;Uberlândia;SIM
+89;Araxá;SIM
+67;Araguari;SIM
+92;Mário Campos;SIM
+75;Presidente Juscelino;SIM
+81;Ipiaçu;SIM
+61;Capitólio;SIM
+80;Centralina;SIM
+54;Belo Horizonte;SIM
+74;São Romão;NÃO
+87;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+88;Juiz de Fora;SIM
+75;São Francisco;SIM
+75;Poços de Caldas;SIM
+41;Juiz de Fora;SIM
+76;Uberlândia;SIM
+62;Martinho Campos;SIM
+70;Contagem;SIM
+89;Belo Horizonte;NÃO
+52;Belo Horizonte;SIM
+85;Belo Horizonte;SIM
+80;Betim;SIM
+85;Belo Horizonte;SIM
+68;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+84;Juiz de Fora;SIM
+67;Planura;SIM
+78;Uberaba;SIM
+40;Paracatu;SIM
+61;Barbacena;SIM
+45;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+84;Pouso Alegre;SIM
+76;Montes Claros;SIM
+69;Belo Horizonte;SIM
+47;Barbacena;SIM
+58;Extrema;SIM
+77;Juiz de Fora;SIM
+80;Extrema;SIM
+87;Juiz de Fora;SIM
+53;Uberlândia;NÃO
+77;Juiz de Fora;SIM
+83;Toledo;SIM
+70;Bueno Brandão;SIM
+64;Belo Horizonte;SIM
+69;Jequitinhonha;SIM
+56;Juiz de Fora;SIM
+91;Uberlândia;SIM
+55;Juiz de Fora;SIM
+75;Belo Horizonte;SIM
+93;Juiz de Fora;SIM
+77;Itapeva;SIM
+74;Poços de Caldas;NÃO
+62;São João Nepomuceno;SIM
+72;Juiz de Fora;NÃO
+67;Carmo do Cajuru;SIM
+80;Mariana;SIM
+46;Belo Horizonte;SIM
+39;Teófilo Otoni;NÃO
+69;Itajubá;SIM
+82;Manhuaçu;SIM
+89;Santa Luzia;NÃO
+81;São José da Lapa;SIM
+68;Uberlândia;SIM
+49;Muriaé;SIM
+14;Betim;SIM
+91;Juiz de Fora;SIM
+70;Itambacuri;SIM
+41;Perdizes;SIM
+81;Juiz de Fora;SIM
+27;Jacutinga;SIM
+90;Boa Esperança;SIM
+65;Sete Lagoas;SIM
+50;Belo Horizonte;SIM
+55;Belo Horizonte;SIM
+56;Governador Valadares;SIM
+81;Caxambu;SIM
+27;Alfredo Vasconcelos;SIM
+74;Betim;SIM
+57;Uberaba;SIM
+77;Boa Esperança;SIM
+67;Mar de Espanha;SIM
+85;Mariana;SIM
+87;Carmo do Cajuru;SIM
+77;Piranga;SIM
+75;Rio Pomba;SIM
+68;Itabirito;SIM
+75;Juiz de Fora;SIM
+58;São João do Manhuaçu;SIM
+80;Alto Jequitibá;SIM
+53;Governador Valadares;SIM
+82;Ribeirão das Neves;SIM
+83;Belo Horizonte;SIM
+73;Belo Horizonte;SIM
+57;Belo Horizonte;SIM
+64;Cataguases;SIM
+69;Lavras;SIM
+93;Muriaé;SIM
+46;Ouro Preto;SIM
+81;Estrela Dalva;SIM
+41;Uberlândia;SIM
+84;Miradouro;SIM
+60;Barbacena;SIM
+80;Belo Horizonte;SIM
+78;Bom Despacho;SIM
+90;Belo Horizonte;SIM
+40;Teófilo Otoni;NÃO
+72;Juiz de Fora;SIM
+56;Juiz de Fora;NÃO
+65;Juiz de Fora;SIM
+79;Juiz de Fora;SIM
+76;Mar de Espanha;SIM
+74;Juiz de Fora;SIM
+65;Leopoldina;SIM
+56;Lavras;SIM
+48;Belo Horizonte;SIM
+62;Belo Horizonte;SIM
+92;Ituiutaba;SIM
+79;Juiz de Fora;SIM
+59;Andradas;SIM
+67;Frutal;SIM
+47;Varginha;SIM
+64;Muriaé;SIM
+72;Teófilo Otoni;SIM
+77;Teófilo Otoni;SIM
+77;Contagem;SIM
+83;Juiz de Fora;SIM
+90;Uberlândia;NÃO
+85;Contagem;SIM
+64;São Joaquim de Bicas;SIM
+75;Belo Horizonte;SIM
+76;Belo Horizonte;SIM
+93;Belo Horizonte;SIM
+71;Belo Horizonte;SIM
+72;Contagem;SIM
+68;Divinópolis;SIM
+23;Barbacena;SIM
+44;Passos;SIM
+67;São Francisco;Não informado
+34;Ibirité;SIM
+31;Ituiutaba;SIM
+61;Uberlândia;SIM
+67;Contagem;SIM
+59;Mateus Leme;SIM
+68;Pirapetinga;SIM
+82;Itambacuri;SIM
+73;Muriaé;SIM
+86;Santa Cruz de Minas;SIM
+77;Belo Horizonte;SIM
+23;Betim;NÃO
+74;Contagem;Não informado
+59;Belo Horizonte;SIM
+91;Juiz de Fora;SIM
+81;Juiz de Fora;SIM
+74;Juiz de Fora;SIM
+68;Mar de Espanha;SIM
+65;Belo Horizonte;SIM
+57;Araxá;NÃO
+83;Faria Lemos;SIM
+55;Além Paraíba;SIM
+63;Contagem;SIM
+62;Governador Valadares;SIM
+89;Governador Valadares;SIM
+74;Uberaba;SIM
+80;Três Corações;NÃO
+63;Betim;SIM
+60;Açucena;SIM
+84;Camanducaia;SIM
+53;Mariana;NÃO
+75;Mariana;SIM
+62;Belo Horizonte;SIM
+90;Pirapora;Não informado
+80;Materlândia;SIM
+48;Uberlândia;SIM
+68;Muriaé;SIM
+70;Ipatinga;SIM
+68;Teófilo Otoni;SIM
+84;Nanuque;SIM
+77;Teófilo Otoni;SIM
+48;Outros Estados;SIM
+38;Belo Horizonte;SIM
+63;Pedra Azul;SIM
+72;Belo Horizonte;SIM
+62;Mariana;SIM
+95;Rio Manso;Não informado
+59;Belo Horizonte;SIM
+25;Contagem;SIM
+83;Manhuaçu;SIM
+62;Planura;SIM
+86;Juiz de Fora;SIM
+36;Uberlândia;NÃO
+55;Outros Estados;SIM
+69;Outros Estados;SIM
+86;Outros Estados;SIM
+56;Outros Estados;SIM
+74;Juiz de Fora;SIM
+88;Belo Horizonte;SIM
+76;Uberlândia;SIM
+89;Rio Manso;NÃO
+69;Jaboticatubas;SIM
+86;Juiz de Fora;SIM
+68;Belo Horizonte;SIM
+78;São Joaquim de Bicas;SIM
+46;Santana do Paraíso;Não informado
+74;Varginha;SIM
+67;Betim;Não informado
+78;Muriaé;SIM
+70;Toledo;SIM
+79;Ribeirão das Neves;SIM
+85;Juiz de Fora;SIM
+72;Piranga;SIM
+90;Uberlândia;SIM
+66;São João do Oriente;SIM
+65;Iapu;SIM
+73;Santana do Paraíso;SIM
+58;Timóteo;SIM
+41;Mariana;SIM
+64;Monte Sião;SIM
+54;Belo Horizonte;SIM
+86;Congonhas;SIM
+67;Uberaba;SIM
+85;Ipatinga;Não informado
+42;Uberlândia;SIM
+49;Uberlândia;SIM
+67;Uberlândia;SIM
+48;Estiva;SIM
+37;Belo Horizonte;SIM
+62;Três Corações;SIM
+74;Paraisópolis;SIM
+78;Lima Duarte;SIM
+67;Teófilo Otoni;SIM
+60;Teófilo Otoni;SIM
+67;Santa Luzia;Não informado
+25;Miraí;SIM
+80;São João Del Rei;SIM
+73;Betim;Não informado
+78;Contagem;NÃO
+64;Contagem;SIM
+55;Contagem;NÃO
+77;Visconde do Rio Branco;SIM
+80;Carangola;SIM
+96;Ipatinga;SIM
+50;Betim;NÃO
+94;Patrocínio;SIM
+56;Orizânia;SIM
+68;Carangola;SIM
+51;Outros Estados;Não informado
+74;Uberlândia;SIM
+45;Muriaé;SIM
+52;Itatiaiuçu;SIM
+50;Além Paraíba;SIM
+76;Astolfo Dutra;Não informado
+65;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+57;Belo Horizonte;SIM
+59;Belo Horizonte;SIM
+81;Uberlândia;NÃO
+93;Três Corações;SIM
+89;Uberlândia;SIM
+57;Ipatinga;SIM
+66;Betim;SIM
+59;Betim;SIM
+52;Betim;SIM
+90;Belo Horizonte;SIM
+64;Outros Estados;NÃO
+66;Munhoz;SIM
+88;Juatuba;NÃO
+69;Contagem;NÃO
+98;Uberaba;SIM
+63;Itajubá;SIM
+74;Belo Horizonte;SIM
+59;Nova Serrana;SIM
+87;Timóteo;SIM
+47;Ribeirão das Neves;Não informado
+55;Capitão Enéas;SIM
+87;Muriaé;SIM
+74;Piranga;Não informado
+43;Mariana;SIM
+92;Ipatinga;SIM
+82;Pouso Alegre;Não informado
+88;Teófilo Otoni;SIM
+57;Uberlândia;NÃO
+52;Outros Estados;SIM
+73;Varginha;SIM
+82;Contagem;SIM
+26;Teófilo Otoni;NÃO
+81;Outros Estados;Não informado
+77;Caratinga;SIM
+59;Caratinga;SIM
+90;Juiz de Fora;SIM
+79;Juiz de Fora;SIM
+61;Juiz de Fora;SIM
+72;Juiz de Fora;SIM
+64;Juiz de Fora;SIM
+76;Juiz de Fora;SIM
+54;Lagoa da Prata;SIM
+45;Divinópolis;SIM
+53;Itajubá;SIM
+43;Bom Jesus do Galho;SIM
+72;Santana do Paraíso;SIM
+69;Nova Lima;SIM
+55;Lima Duarte;SIM
+59;Pintópolis;SIM
+49;Ipatinga;SIM
+54;Janaúba;SIM
+84;Belo Horizonte;SIM
+73;Belo Horizonte;SIM
+61;Contagem;SIM
+90;Araxá;SIM
+53;Fervedouro;Não informado
+57;Uberlândia;Não informado
+42;Manhuaçu;Não informado
+88;Muriaé;Não informado
+57;Extrema;SIM
+45;Belo Oriente;SIM
+45;Juiz de Fora;SIM
+48;Vespasiano;SIM
+50;Botelhos;Não informado
+85;Caratinga;SIM
+83;Bueno Brandão;SIM
+61;Uberlândia;Não informado
+74;Uberlândia;SIM
+74;Formoso;Não informado
+51;Ipatinga;SIM
+78;Ipatinga;SIM
+81;Ipatinga;SIM
+61;Poços de Caldas;NÃO
+68;Outros Estados;SIM
+72;Betim;SIM
+82;São Lourenço;SIM
+71;Santa Cruz de Minas;SIM
+41;Belo Horizonte;SIM
+91;Belo Horizonte;Não informado
+69;Belo Horizonte;SIM
+77;Uberlândia;SIM
+80;Capitólio;SIM
+79;Carmo do Rio Claro;SIM
+65;Betim;SIM
+71;Betim;SIM
+76;Outros Estados;SIM
+98;Contagem;SIM
+41;Ipatinga;NÃO
+64;Ipatinga;SIM
+73;Três Corações;SIM
+76;Muriaé;SIM
+59;Uberaba;NÃO
+91;Uberlândia;SIM
+65;São Francisco do Glória;SIM
+71;Leopoldina;SIM
+68;Raposos;SIM
+85;Contagem;SIM
+76;Belo Horizonte;SIM
+91;Belo Horizonte;SIM
+92;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+75;Belo Horizonte;SIM
+57;Betim;Não informado
+68;São Joaquim de Bicas;SIM
+83;Uberaba;SIM
+83;Juiz de Fora;SIM
+86;Ipaba;SIM
+29;Ipatinga;SIM
+56;Outros Estados;SIM
+87;Conselheiro Lafaiete;SIM
+62;Tiradentes;SIM
+72;Montes Claros;SIM
+82;Uberaba;SIM
+72;Uberlândia;SIM
+72;Pedrinópolis;Não informado
+102;Teófilo Otoni;Não informado
+54;Paraisópolis;SIM
+75;Itinga;Não informado
+73;Rodeiro;Não informado
+47;Uberaba;SIM
+39;Teófilo Otoni;SIM
+74;Salinas;SIM
+66;Governador Valadares;SIM
+68;Mantena;SIM
+63;Lavras;SIM
+66;São João do Oriente;SIM
+63;Coronel Fabriciano;SIM
+73;Caratinga;SIM
+61;Imbé de Minas;SIM
+85;Ipatinga;SIM
+86;Timóteo;NÃO
+87;Itapeva;SIM
+44;Campo Belo;SIM
+36;Mariana;SIM
+70;Uberlândia;SIM
+84;Uberlândia;SIM
+56;Uberlândia;SIM
+57;Contagem;Não informado
+86;Belo Horizonte;SIM
+70;Monte Alegre de Minas;SIM
+67;Lontra;Não informado
+68;Teófilo Otoni;SIM
+51;Lambari;Não informado
+66;Ipatinga;SIM
+73;Uberlândia;SIM
+70;Senador Modestino Gonçalves;SIM
+66;Itajubá;SIM
+69;Uberaba;Não informado
+58;Governador Valadares;Não informado
+93;Belo Oriente;SIM
+84;Inhapim;SIM
+80;Ipatinga;SIM
+54;Ipatinga;SIM
+97;Contagem;SIM
+64;Uberlândia;SIM
+29;Rio Espera;Não informado
+70;Uberlândia;SIM
+73;Governador Valadares;SIM
+78;Araxá;SIM
+55;Janaúba;SIM
+53;Nova Porteirinha;SIM
+52;Lavras;Não informado
+88;Uberlândia;SIM
+75;Muriaé;Não informado
+77;Campo Belo;Não informado
+62;Munhoz;SIM
+65;Uberaba;SIM
+94;Uberlândia;SIM
+45;Uberlândia;NÃO
+50;Carandaí;NÃO
+84;Itajubá;SIM
+74;Uberlândia;SIM
+80;Córrego do Bom Jesus;SIM
+58;Betim;SIM
+64;Betim;SIM
+83;Morro da Garça;SIM
+54;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+93;Belo Horizonte;SIM
+66;Belo Horizonte;SIM
+42;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+60;Belo Horizonte;SIM
+75;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+51;Naque;SIM
+75;Belo Oriente;SIM
+66;Ipatinga;SIM
+70;São Gonçalo do Rio Abaixo;Não informado
+79;Ipatinga;SIM
+72;Ipatinga;Não informado
+69;Ipatinga;SIM
+86;Ipatinga;SIM
+83;Ipatinga;SIM
+30;Ipatinga;NÃO
+81;Sete Lagoas;SIM
+80;Contagem;SIM
+79;Betim;SIM
+61;Sabará;NÃO
+39;Sarzedo;SIM
+53;Contagem;SIM
+49;Contagem;SIM
+83;Lavras;SIM
+69;Lavras;SIM
+50;Belo Horizonte;SIM
+57;Belo Horizonte;SIM
+70;Belo Horizonte;Não informado
+79;Ribeirão das Neves;NÃO
+87;Belo Horizonte;SIM
+92;Belo Horizonte;SIM
+91;Espinosa;Não informado
+53;Carandaí;SIM
+65;Ribeirão das Neves;SIM
+69;Uberlândia;SIM
+26;Outros Estados;SIM
+73;Senador Firmino;SIM
+77;Contagem;SIM
+53;Contagem;SIM
+27;Jesuânia;SIM
+66;Santo Antônio do Amparo;SIM
+81;Carmo do Cajuru;SIM
+80;Uberlândia;SIM
+61;Patrocínio;SIM
+70;Resplendor;SIM
+62;Ouro Preto;SIM
+78;Contagem;Não informado
+89;Santa Luzia;SIM
+79;Santa Luzia;SIM
+87;Raposos;SIM
+65;Três Corações;SIM
+67;São Francisco;Não informado
+70;Outros Estados;SIM
+82;Ipatinga;SIM
+59;Governador Valadares;SIM
+58;Governador Valadares;Não informado
+74;Mantena;SIM
+74;Governador Valadares;SIM
+75;Uberlândia;SIM
+75;Governador Valadares;SIM
+70;Uberlândia;SIM
+69;Muriaé;SIM
+89;Patos de Minas;SIM
+64;Passos;SIM
+69;Juiz de Fora;SIM
+79;Coronel Pacheco;SIM
+34;Ubá;Não informado
+65;Belo Horizonte;Não informado
+47;Campina Verde;SIM
+89;Carangola;SIM
+82;Uberaba;SIM
+84;Contagem;SIM
+61;Belo Horizonte;SIM
+43;Belo Horizonte;NÃO
+33;Belo Horizonte;SIM
+81;Governador Valadares;SIM
+51;Guaranésia;SIM
+38;Patos de Minas;SIM
+70;Varjão de Minas;SIM
+73;Varginha;SIM
+59;Lavras;Não informado
+64;Belo Oriente;Não informado
+63;Ipatinga;Não informado
+50;Janaúba;NÃO
+86;Ibirité;SIM
+35;Contagem;SIM
+71;Contagem;SIM
+60;São José da Lapa;SIM
+32;Belo Horizonte;SIM
+90;Belo Horizonte;SIM
+68;Belo Horizonte;SIM
+90;Uberlândia;SIM
+62;Santo Antônio do Jacinto;Não informado
+76;Uberlândia;SIM
+72;Uberlândia;SIM
+84;Uberlândia;SIM
+67;Uberlândia;SIM
+62;Uberlândia;SIM
+89;Muriaé;SIM
+40;Belo Horizonte;SIM
+43;Medina;SIM
+71;Espera Feliz;SIM
+70;Governador Valadares;SIM
+78;Santana do Paraíso;SIM
+66;Ipatinga;SIM
+84;Governador Valadares;SIM
+81;Piranga;SIM
+44;Moema;NÃO
+81;Nova Ponte;SIM
+57;Outros Estados;SIM
+100;Patrocínio do Muriaé;SIM
+84;Divinópolis;SIM
+69;Divinópolis;SIM
+55;Divinópolis;SIM
+67;Divinópolis;SIM
+89;Divinópolis;SIM
+87;Divinópolis;SIM
+66;Betim;SIM
+83;Betim;SIM
+57;Betim;SIM
+36;Betim;NÃO
+84;Betim;SIM
+61;Itanhandu;SIM
+64;Guaraciama;SIM
+81;Araporã;SIM
+43;Sarzedo;SIM
+59;São Joaquim de Bicas;SIM
+91;Santa Efigênia de Minas;SIM
+64;Governador Valadares;SIM
+92;Governador Valadares;SIM
+56;Governador Valadares;Não informado
+78;Juiz de Fora;SIM
+80;Juiz de Fora;SIM
+79;Luz;SIM
+88;Muriaé;SIM
+74;Belo Horizonte;SIM
+77;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+64;Jaboticatubas;SIM
+43;Belo Horizonte;NÃO
+75;Belo Horizonte;SIM
+59;Belo Horizonte;SIM
+83;Boa Esperança;SIM
+63;Caratinga;SIM
+89;Coronel Fabriciano;SIM
+49;Santana do Paraíso;SIM
+47;Caratinga;SIM
+80;Ipatinga;Não informado
+81;Uberaba;SIM
+59;Outros Estados;NÃO
+61;Leopoldina;NÃO
+86;Leopoldina;SIM
+85;Acaiaca;NÃO
+66;Uberaba;SIM
+83;Poté;SIM
+37;Outros Estados;NÃO
+83;Divinópolis;SIM
+64;Contagem;Não informado
+60;Guaxupé;SIM
+67;Contagem;SIM
+74;Contagem;SIM
+81;Muriaé;SIM
+53;Outros Estados;SIM
+61;Guaxupé;SIM
+70;Sabará;SIM
+85;Araguari;SIM
+77;Araguari;NÃO
+86;Governador Valadares;SIM
+78;Governador Valadares;Não informado
+64;Governador Valadares;SIM
+61;Monte Alegre de Minas;SIM
+59;Santana do Deserto;SIM
+41;Santa Juliana;Não informado
+71;Alto Rio Doce;SIM
+70;Juiz de Fora;SIM
+89;Uberaba;SIM
+72;Juiz de Fora;SIM
+69;Juiz de Fora;SIM
+44;Mar de Espanha;Não informado
+70;Juiz de Fora;SIM
+88;Juiz de Fora;SIM
+74;Santana do Paraíso;SIM
+88;Ipatinga;SIM
+77;Coronel Fabriciano;NÃO
+76;Cambuí;SIM
+55;Boa Esperança;SIM
+83;Ponte Nova;SIM
+85;Ipatinga;SIM
+80;São João Del Rei;SIM
+54;São João Del Rei;SIM
+76;São João Del Rei;SIM
+87;Urucuia;Não informado
+91;Uberaba;SIM
+68;Mantena;SIM
+41;Governador Valadares;Não informado
+69;Governador Valadares;SIM
+68;São Joaquim de Bicas;SIM
+65;Muriaé;SIM
+87;Itabirinha;SIM
+43;Mantena;SIM
+62;Governador Valadares;SIM
+82;Ibiá;SIM
+61;Santa Rita de Jacutinga;SIM
+64;Teófilo Otoni;SIM
+76;Teófilo Otoni;Não informado
+54;Teófilo Otoni;Não informado
+80;Bocaiúva;SIM
+52;Janaúba;SIM
+47;Janaúba;SIM
+94;Taiobeiras;SIM
+71;Uberlândia;SIM
+55;Uberlândia;SIM
+76;Uberlândia;NÃO
+67;Uberlândia;SIM
+57;Uberlândia;SIM
+61;Itabirinha;Não informado
+60;Goiabeira;Não informado
+91;Santana do Paraíso;Não informado
+80;Ipatinga;SIM
+78;Ipatinga;SIM
+72;Lavras;SIM
+84;Passa Quatro;SIM
+62;Uberaba;SIM
+73;São Pedro do Suaçuí;Não informado
+53;Governador Valadares;SIM
+88;Coronel Fabriciano;SIM
+69;Santana do Paraíso;SIM
+93;Coronel Fabriciano;SIM
+48;Capitão Enéas;SIM
+73;Capitão Enéas;SIM
+82;Teófilo Otoni;Não informado
+56;Teófilo Otoni;Não informado
+54;Teófilo Otoni;Não informado
+71;Teófilo Otoni;Não informado
+91;Teófilo Otoni;Não informado
+51;Outros Estados;Não informado
+76;Teófilo Otoni;SIM
+74;Três Marias;SIM
+81;Uberlândia;SIM
+80;Uberlândia;SIM
+90;Uberlândia;SIM
+59;Uberlândia;SIM
+86;Uberlândia;SIM
+72;Uberlândia;SIM
+82;Governador Valadares;SIM
+71;Governador Valadares;SIM
+70;São João Evangelista;Não informado
+83;Itapeva;SIM
+71;Governador Valadares;SIM
+88;Extrema;NÃO
+52;Betim;NÃO
+44;Nova Lima;SIM
+77;São Joaquim de Bicas;SIM
+77;Ribeirão das Neves;SIM
+8;Ribeirão das Neves;SIM
+49;Santa Luzia;SIM
+62;Belo Horizonte;SIM
+85;Belo Horizonte;SIM
+40;Belo Horizonte;SIM
+93;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+96;Belo Horizonte;SIM
+62;Uberlândia;SIM
+80;Eugenópolis;SIM
+85;Muriaé;SIM
+56;Boa Esperança;SIM
+51;Barbacena;SIM
+79;Uberaba;SIM
+42;Contagem;SIM
+68;Belo Horizonte;SIM
+84;Uberaba;SIM
+56;Belo Horizonte;SIM
+66;Formiga;SIM
+79;Ijaci;SIM
+75;Unaí;SIM
+79;Poté;SIM
+58;Teófilo Otoni;SIM
+81;Teófilo Otoni;Não informado
+94;Teófilo Otoni;SIM
+80;Betim;Não informado
+44;Frutal;Não informado
+37;Uberlândia;SIM
+62;Uberlândia;SIM
+57;Uberlândia;SIM
+84;Caparaó;Não informado
+53;Belo Horizonte;SIM
+77;Contagem;SIM
+64;Poços de Caldas;NÃO
+21;Camanducaia;NÃO
+79;Jacutinga;NÃO
+71;Campanha;Não informado
+79;Mar de Espanha;SIM
+78;Mar de Espanha;SIM
+61;Rio Manso;NÃO
+58;Betim;NÃO
+71;Betim;SIM
+46;Ibirité;SIM
+71;Ribeirão das Neves;SIM
+62;Ribeirão das Neves;NÃO
+79;Sabará;SIM
+57;São João da Ponte;SIM
+76;Uberaba;SIM
+80;Monte Alegre de Minas;SIM
+75;Ipatinga;SIM
+84;Bom Jesus do Galho;SIM
+70;Santana do Paraíso;Não informado
+82;Ipatinga;SIM
+87;Coronel Fabriciano;SIM
+88;Monte Carmelo;SIM
+96;Arcos;SIM
+87;Carandaí;SIM
+89;Salinas;SIM
+44;Betim;SIM
+83;Betim;SIM
+67;Outros Estados;SIM
+51;Santa Rita do Sapucaí;SIM
+79;Uberlândia;SIM
+67;Uberlândia;SIM
+78;Uberlândia;SIM
+68;Uberlândia;SIM
+41;Uberlândia;NÃO
+65;Uberlândia;SIM
+79;Uberlândia;SIM
+61;Guaranésia;SIM
+70;Teófilo Otoni;SIM
+50;Teófilo Otoni;Não informado
+96;Divino das Laranjeiras;SIM
+81;Jaboticatubas;SIM
+51;Vespasiano;SIM
+28;Contagem;SIM
+68;Contagem;SIM
+60;Contagem;SIM
+60;Belo Horizonte;SIM
+65;Belo Horizonte;SIM
+44;Belo Horizonte;SIM
+83;Carmópolis de Minas;SIM
+72;Juiz de Fora;Não informado
+82;Betim;SIM
+51;São Domingos das Dores;SIM
+62;Ipaba;SIM
+18;São Domingos das Dores;SIM
+80;Santana do Paraíso;Não informado
+45;Ipatinga;NÃO
+90;Ipatinga;SIM
+83;Ipatinga;SIM
+48;Ipatinga;NÃO
+78;São Gonçalo do Pará;SIM
+76;Igaratinga;SIM
+81;Muriaé;SIM
+89;Santa Luzia;Não informado
+65;Lagoa da Prata;SIM
+83;Carmópolis de Minas;SIM
+69;Salinas;SIM
+48;Montes Claros;Não informado
+85;Janaúba;SIM
+59;Curvelo;Não informado
+39;Sete Lagoas;Não informado
+31;Uberlândia;SIM
+85;Uberlândia;SIM
+82;Tupaciguara;SIM
+65;Guanhães;SIM
+59;Arantina;SIM
+70;Juiz de Fora;SIM
+64;Outros Estados;Não informado
+94;Juiz de Fora;SIM
+63;Caraí;Não informado
+55;Teófilo Otoni;SIM
+78;Teófilo Otoni;SIM
+88;Teófilo Otoni;Não informado
+83;Teófilo Otoni;SIM
+41;Varginha;SIM
+53;Campos Gerais;NÃO
+84;Ingaí;SIM
+33;Lavras;SIM
+87;São Francisco;Não informado
+65;Galiléia;SIM
+47;Santa Maria do Suaçuí;Não informado
+81;Governador Valadares;Não informado
+80;Ibirité;SIM
+78;Sete Lagoas;SIM
+84;São Tiago;Não informado
+77;Itinga;SIM
+86;Uberaba;Não informado
+68;Muriaé;Não informado
+69;Betim;SIM
+70;Uberlândia;SIM
+76;Itaobim;SIM
+71;Pedra Azul;Não informado
+74;Rio Novo;Não informado
+83;São João Del Rei;SIM
+68;Guaranésia;SIM
+88;Frutal;Não informado
+86;Frutal;Não informado
+84;Conceição das Alagoas;SIM
+52;Araxá;SIM
+57;Campos Altos;SIM
+58;Ipatinga;SIM
+86;Ipatinga;Não informado
+58;Ipatinga;SIM
+61;Governador Valadares;SIM
+79;Governador Valadares;Não informado
+64;Governador Valadares;SIM
+65;Governador Valadares;SIM
+71;Governador Valadares;SIM
+86;Araguari;SIM
+35;Santana do Paraíso;SIM
+81;Ipatinga;SIM
+77;Lagoa Dourada;SIM
+81;Nova Ponte;Não informado
+62;Uberaba;SIM
+69;Uberaba;SIM
+72;Piumhi;SIM
+71;Uberlândia;Não informado
+47;Araguari;Não informado
+77;Patrocínio;Não informado
+38;Patrocínio;Não informado
+90;Ingaí;SIM
+86;Ingaí;Não informado
+68;Machado;SIM
+81;Muriaé;SIM
+91;Várzea da Palma;NÃO
+59;Manhumirim;SIM
+84;Divino;SIM
+58;Manhuaçu;Não informado
+78;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+79;Belo Horizonte;SIM
+86;Belo Horizonte;SIM
+48;Belo Horizonte;SIM
+67;Belo Horizonte;NÃO
+77;Belo Horizonte;SIM
+77;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+69;Belo Horizonte;SIM
+89;Belo Horizonte;SIM
+58;Belo Horizonte;SIM
+55;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+71;Belo Horizonte;SIM
+50;Belo Horizonte;SIM
+64;Belo Horizonte;SIM
+68;Belo Horizonte;SIM
+75;Belo Horizonte;SIM
+88;Belo Horizonte;SIM
+72;Belo Horizonte;SIM
+86;Belo Horizonte;SIM
+89;Betim;SIM
+77;Mário Campos;SIM
+69;Ribeirão das Neves;SIM
+89;Sabará;SIM
+60;Juiz de Fora;SIM
+61;Nova Serrana;SIM
+74;Divinópolis;SIM
+53;Belo Horizonte;SIM
+60;Belo Horizonte;SIM
+48;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+81;Lavras;SIM
+33;Jequitinhonha;NÃO
+57;Bandeira;Não informado
+72;Poços de Caldas;NÃO
+43;Itapeva;NÃO
+65;Itapeva;SIM
+98;Uberlândia;SIM
+76;Tupaciguara;SIM
+69;Serro;SIM
+62;Piedade do Rio Grande;SIM
+95;Salinas;SIM
+77;Patos de Minas;SIM
+82;Patos de Minas;SIM
+61;Patos de Minas;SIM
+86;Rio Paranaíba;SIM
+79;Carmo do Paranaíba;SIM
+71;São Gotardo;SIM
+74;Coromandel;SIM
+73;Bela Vista de Minas;SIM
+93;Juiz de Fora;SIM
+66;Juiz de Fora;SIM
+79;Piumhi;SIM
+58;Ataléia;SIM
+81;Nanuque;SIM
+97;Carlos Chagas;SIM
+63;Coronel Fabriciano;SIM
+72;Ipatinga;SIM
+48;Caratinga;SIM
+60;Timóteo;SIM
+62;Santa Juliana;SIM
+82;Araxá;SIM
+85;Contagem;SIM
+62;Contagem;SIM
+67;Contagem;SIM
+45;Contagem;SIM
+56;Contagem;SIM
+62;São Joaquim de Bicas;SIM
+42;Contagem;SIM
+72;Uberlândia;SIM
+38;Uberlândia;SIM
+38;Uberlândia;NÃO
+83;Lavras;SIM
+71;Curvelo;Não informado
+54;Buenópolis;SIM
+82;Alvorada de Minas;SIM
+75;Almenara;Não informado
+73;Belo Horizonte;SIM
+68;Belo Horizonte;Não informado
+59;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+73;Belo Horizonte;Não informado
+62;Belo Horizonte;NÃO
+49;Governador Valadares;NÃO
+75;Governador Valadares;SIM
+75;Manhuaçu;SIM
+79;Martins Soares;SIM
+70;Manhuaçu;NÃO
+83;Manhuaçu;NÃO
+66;Varzelândia;SIM
+63;Uberaba;SIM
+47;Delta;SIM
+55;Jordânia;Não informado
+61;Rio Paranaíba;SIM
+78;Rio Paranaíba;SIM
+55;Juruaia;SIM
+70;Cambuí;SIM
+57;Monte Sião;SIM
+72;Jacutinga;SIM
+82;Bueno Brandão;SIM
+82;Piranga;SIM
+81;Lima Duarte;SIM
+55;Uberlândia;SIM
+74;Uberlândia;SIM
+65;Uberlândia;NÃO
+84;Uberlândia;SIM
+80;Uberlândia;SIM
+59;São Lourenço;SIM
+49;Curvelo;SIM
+76;Curvelo;SIM
+22;Betim;SIM
+50;Betim;SIM
+85;Contagem;SIM
+38;Esmeraldas;SIM
+75;Mário Campos;SIM
+60;São Joaquim de Bicas;SIM
+87;Taquaraçu de Minas;SIM
+49;Belo Horizonte;SIM
+78;Belo Horizonte;SIM
+76;Belo Horizonte;SIM
+70;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+76;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+68;Belo Horizonte;SIM
+59;Belo Horizonte;SIM
+70;Belo Horizonte;SIM
+63;Belo Horizonte;SIM
+56;Belo Horizonte;SIM
+88;Ipatinga;SIM
+73;Bom Jesus do Galho;SIM
+80;Timóteo;NÃO
+4;Diamantina;SIM
+40;Uberlândia;SIM
+68;Uberlândia;SIM
+72;Uberlândia;SIM
+92;Araguari;SIM
+94;Uberlândia;SIM
+59;Rio do Prado;SIM
+73;Muriaé;SIM
+86;Muriaé;SIM
+84;Juiz de Fora;SIM
+53;Teófilo Otoni;SIM
+86;Frutal;SIM
+47;Uberlândia;NÃO
+86;Uberlândia;SIM
+86;Taiobeiras;SIM
+70;Nova Serrana;SIM
+71;Leopoldina;Não informado
+64;Cataguases;Não informado
+59;Santo Antônio do Aventureiro;SIM
+94;Leopoldina;Não informado
+83;Leopoldina;Não informado
+89;Leopoldina;Não informado
+87;Leopoldina;NÃO
+71;Governador Valadares;SIM
+79;Governador Valadares;SIM
+49;Governador Valadares;SIM
+73;Governador Valadares;SIM
+79;Governador Valadares;SIM
+63;Governador Valadares;SIM
+68;Betim;SIM
+68;Contagem;SIM
+79;Contagem;SIM
+82;Contagem;SIM
+79;Contagem;SIM
+76;Contagem;SIM
+43;Contagem;SIM
+55;Contagem;NÃO
+66;Ibirité;SIM
+50;Sabará;SIM
+70;Santa Luzia;SIM
+36;Santa Luzia;NÃO
+68;Vespasiano;SIM
+81;Belo Horizonte;SIM
+65;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+66;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+92;Belo Horizonte;SIM
+53;Belo Horizonte;SIM
+91;Belo Horizonte;SIM
+77;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+74;Caiana;SIM
+90;Cataguases;SIM
+66;Ibiá;SIM
+84;Juiz de Fora;SIM
+84;Juiz de Fora;SIM
+83;Juiz de Fora;SIM
+93;Juiz de Fora;SIM
+62;Uberlândia;SIM
+65;Uberlândia;SIM
+62;Uberlândia;SIM
+69;Uberlândia;SIM
+86;Uberlândia;SIM
+66;Uberlândia;SIM
+52;Nova Ponte;SIM
+48;Araguari;SIM
+88;Itabira;SIM
+57;Extrema;SIM
+71;Várzea da Palma;SIM
+82;Piumhi;Não informado
+56;Cuparaque;Não informado
+37;Tarumirim;SIM
+83;São Geraldo do Baixio;NÃO
+62;Engenheiro Caldas;NÃO
+69;Mantena;SIM
+78;Mantena;NÃO
+74;Governador Valadares;SIM
+63;Santana do Paraíso;SIM
+82;Ipatinga;SIM
+48;Antônio Dias;SIM
+84;Jaguaraçu;NÃO
+59;Córrego Novo;SIM
+68;Dom Cavati;SIM
+81;Ipatinga;SIM
+68;Santana do Paraíso;SIM
+75;Mesquita;SIM
+66;Coronel Fabriciano;Não informado
+68;Ipatinga;NÃO
+66;Coronel Fabriciano;SIM
+55;Lambari;SIM
+85;Piranga;SIM
+80;Janaúba;SIM
+83;Nova Lima;SIM
+86;Ibirité;SIM
+53;Betim;SIM
+76;Betim;SIM
+88;Betim;SIM
+21;Betim;SIM
+53;Contagem;NÃO
+73;Januária;SIM
+57;Mutum;SIM
+81;Caparaó;SIM
+69;Espera Feliz;SIM
+40;Belo Horizonte;SIM
+57;Belo Horizonte;Não informado
+73;Belo Horizonte;Não informado
+49;Belo Horizonte;SIM
+89;Belo Horizonte;SIM
+86;Belo Horizonte;SIM
+75;Belo Horizonte;SIM
+76;Belo Horizonte;SIM
+66;Uberlândia;SIM
+66;Uberlândia;SIM
+96;Uberlândia;SIM
+45;Uberlândia;Não informado
+65;Uberlândia;SIM
+83;Uberlândia;SIM
+73;Patrocínio;Não informado
+73;Uberlândia;SIM
+77;Uberlândia;SIM
+85;Uberlândia;SIM
+74;Nova Ponte;SIM
+87;Uberlândia;SIM
+85;Uberlândia;SIM
+58;Uberlândia;SIM
+68;Alvarenga;SIM
+87;Teófilo Otoni;Não informado
+62;Ouro Verde de Minas;SIM
+90;Teófilo Otoni;SIM
+76;Monte Alegre de Minas;SIM
+45;Frutal;SIM
+65;Juiz de Fora;NÃO
+80;Ipaba;SIM
+68;Ipatinga;SIM
+77;Ipatinga;SIM
+25;Governador Valadares;SIM
+65;Tarumirim;SIM
+48;Tarumirim;SIM
+71;Patrocínio;Não informado
+55;Cascalho Rico;SIM
+52;Araporã;NÃO
+69;Araguari;SIM
+72;Araguari;SIM
+73;Juatuba;SIM
+63;Betim;SIM
+79;Betim;SIM
+65;Contagem;SIM
+86;Contagem;SIM
+62;Contagem;SIM
+79;Contagem;SIM
+68;Contagem;SIM
+45;Uberlândia;SIM
+62;Uberlândia;SIM
+43;Uberlândia;SIM
+86;Uberlândia;SIM
+88;Uberlândia;SIM
+55;Uberlândia;SIM
+85;Uberlândia;SIM
+79;Frutal;SIM
+81;Governador Valadares;SIM
+70;Governador Valadares;SIM
+50;Governador Valadares;NÃO
+81;Governador Valadares;SIM
+59;Mutum;SIM
+89;Durandé;SIM
+72;Espera Feliz;SIM
+73;Uberlândia;SIM
+78;Uberlândia;SIM
+88;Uberlândia;SIM
+53;Ipatinga;SIM
+72;Guaranésia;SIM
+60;Juruaia;SIM
+62;Formiga;SIM
+85;Divinópolis;NÃO
+80;Dores Do Indaiá;SIM
+58;Carmópolis De Minas;NÃO
+70;Cana Verde;SIM
+70;Campo Belo;SIM
+84;Joaíma;SIM
+49;Felisburgo;SIM
+80;Visconde Do Rio Branco;SIM
+75;Muriaé;SIM
+51;Pouso Alegre;SIM
+85;Piranguçu;SIM
+82;Pouso Alegre;SIM
+87;Pouso Alegre;SIM
+91;Francisco Sá;SIM
+78;Monte Azul;SIM
+59;Uberlândia;NÃO
+69;Uberlândia;SIM
+69;Carmo Do Paranaíba;SIM
+23;Uberaba;SIM
+78;Lima Duarte;SIM
+73;São Sebastião Do Paraíso;SIM
+71;São João Del Rei;SIM
+80;Pompéu;SIM
+21;Ipatinga;SIM
+68;Santana Do Paraíso;SIM
+80;Timóteo;SIM
+79;Coronel Fabriciano;SIM
+85;Timóteo;SIM
+82;Ipatinga;NÃO
+52;Caratinga;SIM
+81;Três Corações;SIM
+42;Jesuânia;SIM
+86;Contagem;SIM
+87;Betim;SIM
+66;Sete Lagoas;SIM
+73;Sete Lagoas;SIM
+52;Cordisburgo;SIM
+81;Sete Lagoas;SIM
+57;Lavras;Não informado
+66;Belo Horizonte;SIM
+56;Belo Horizonte;SIM
+68;Belo Horizonte;SIM
+76;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+90;Belo Horizonte;SIM
+66;Belo Horizonte;SIM
+86;Belo Horizonte;SIM
+69;Belo Horizonte;SIM
+88;Belo Horizonte;Não informado
+61;Belo Horizonte;SIM
+62;Muriaé;SIM
+69;Visconde do Rio Branco;SIM
+36;Uberaba;SIM
+83;Santa Juliana;SIM
+34;Muriaé;NÃO
+62;São Gotardo;SIM
+67;São Gotardo;SIM
+48;Patos de Minas;SIM
+67;Coronel Fabriciano;SIM
+86;Caratinga;SIM
+86;Ipatinga;SIM
+92;Ipatinga;NÃO
+83;Belo Oriente;SIM
+76;Uberlândia;SIM
+84;Uberlândia;SIM
+77;Uberlândia;SIM
+95;Uberlândia;SIM
+70;Uberlândia;SIM
+43;Uberlândia;NÃO
+45;Salinas;SIM
+76;Salinas;SIM
+74;Salinas;Não informado
+71;Monte Sião;SIM
+52;Extrema;Não informado
+68;Poços de Caldas;SIM
+62;Pouso Alegre;SIM
+64;Pouso Alegre;SIM
+74;Pouso Alegre;SIM
+82;Rochedo de Minas;SIM
+75;Juiz de Fora;SIM
+88;Juiz de Fora;SIM
+46;Rio Novo;SIM
+74;Urucuia;SIM
+84;Buritizeiro;SIM
+74;Lavras;SIM
+74;Passa Quatro;SIM
+79;Lavras;SIM
+86;Inimutaba;SIM
+83;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+63;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+64;Belo Horizonte;SIM
+79;Belo Horizonte;SIM
+71;Belo Horizonte;NÃO
+81;Belo Horizonte;SIM
+64;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+79;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+76;Astolfo Dutra;Não informado
+74;Cataguases;Não informado
+57;Cataguases;Não informado
+93;Cataguases;Não informado
+75;Laranjal;Não informado
+87;Teófilo Otoni;Não informado
+77;Teófilo Otoni;SIM
+71;Ataléia;SIM
+87;Teófilo Otoni;SIM
+57;Teófilo Otoni;SIM
+88;São Geraldo do Baixio;Não informado
+73;Governador Valadares;SIM
+62;Governador Valadares;SIM
+77;Governador Valadares;SIM
+75;Jeceaba;NÃO
+51;Congonhas;SIM
+78;Martins Soares;SIM
+79;Manhuaçu;SIM
+58;Tombos;SIM
+42;Uberlândia;SIM
+57;Três Marias;SIM
+67;Leopoldina;Não informado
+82;Leopoldina;Não informado
+51;Leopoldina;SIM
+47;Leopoldina;SIM
+59;Uberlândia;SIM
+77;Betim;SIM
+63;Betim;SIM
+66;Esmeraldas;SIM
+62;Ibirité;SIM
+75;Ibirité;SIM
+57;Ibirité;SIM
+56;Mário Campos;SIM
+74;Sabará;Não informado
+32;Sabará;NÃO
+62;Santa Luzia;SIM
+48;Santa Luzia;SIM
+62;Uberaba;SIM
+43;Uberaba;SIM
+67;São Gotardo;SIM
+75;São Gotardo;SIM
+84;Carlos Chagas;SIM
+85;Unaí;NÃO
+82;Bonfinópolis de Minas;SIM
+79;Uberlândia;SIM
+90;Uberlândia;SIM
+68;Nova Porteirinha;Não informado
+99;Bocaiúva;SIM
+56;Passos;SIM
+84;Alpinópolis;SIM
+67;Alpinópolis;SIM
+72;Uberlândia;SIM
+55;Uberlândia;SIM
+99;Uberlândia;SIM
+69;Araguari;SIM
+78;Araguari;SIM
+65;Marliéria;SIM
+75;Timóteo;SIM
+75;Santana do Paraíso;SIM
+2;Ipatinga;SIM
+75;Ipaba;SIM
+63;Ipatinga;Não informado
+69;Santana do Paraíso;SIM
+74;Lavras;SIM
+67;Lavras;SIM
+83;São Joaquim de Bicas;SIM
+63;São Joaquim de Bicas;SIM
+69;Santa Luzia;SIM
+85;Contagem;SIM
+55;Contagem;SIM
+63;Contagem;SIM
+67;Contagem;SIM
+59;Contagem;SIM
+69;Contagem;NÃO
+17;Contagem;SIM
+70;Contagem;SIM
+39;Contagem;SIM
+84;Contagem;SIM
+62;Contagem;SIM
+97;Contagem;SIM
+63;Contagem;SIM
+80;Contagem;SIM
+64;Betim;SIM
+68;Santa Maria de Itabira;SIM
+68;Itabira;SIM
+63;Muriaé;SIM
+90;Belo Horizonte;SIM
+88;Belo Horizonte;SIM
+76;Belo Horizonte;SIM
+86;Belo Horizonte;SIM
+65;Belo Horizonte;SIM
+86;Belo Horizonte;NÃO
+43;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+33;Belo Horizonte;SIM
+51;Belo Horizonte;SIM
+44;Belo Horizonte;SIM
+90;Belo Horizonte;SIM
+90;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+80;Belo Horizonte;SIM
+78;Belo Horizonte;SIM
+80;Belo Horizonte;SIM
+71;Belo Horizonte;SIM
+77;Belo Horizonte;SIM
+62;Belo Horizonte;SIM
+51;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+78;Além Paraíba;SIM
+62;Além Paraíba;NÃO
+81;Além Paraíba;SIM
+70;Além Paraíba;SIM
+59;Além Paraíba;SIM
+84;Santo Antônio do Aventureiro;SIM
+69;Estrela Dalva;SIM
+70;Além Paraíba;SIM
+70;Leopoldina;Não informado
+77;Palmópolis;NÃO
+90;Uberaba;SIM
+73;Delta;SIM
+91;Uberlândia;SIM
+90;Montes Claros;SIM
+74;Matias Barbosa;SIM
+86;Juiz de Fora;SIM
+66;Juiz de Fora;SIM
+60;Juiz de Fora;SIM
+88;Juiz de Fora;SIM
+85;Juiz de Fora;SIM
+38;Juiz de Fora;SIM
+86;Juiz de Fora;SIM
+45;Juiz de Fora;SIM
+66;Poços de Caldas;SIM
+70;Timóteo;SIM
+90;Timóteo;SIM
+72;Caratinga;SIM
+74;Jesuânia;SIM
+75;São Geraldo;SIM
+76;Paracatu;SIM
+91;Barbacena;SIM
+60;Ouro Branco;NÃO
+53;Ponto dos Volantes;NÃO
+62;Belo Horizonte;SIM
+41;Belo Horizonte;SIM
+68;Belo Horizonte;SIM
+93;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+66;Belo Horizonte;SIM
+80;Belo Horizonte;SIM
+82;Belo Horizonte;SIM
+82;Belo Horizonte;SIM
+99;Belo Horizonte;SIM
+85;Belo Horizonte;SIM
+89;Belo Horizonte;SIM
+62;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+60;Belo Horizonte;SIM
+78;Belo Horizonte;SIM
+79;Belo Horizonte;SIM
+63;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+73;Belo Horizonte;SIM
+39;Belo Horizonte;SIM
+63;Belo Horizonte;SIM
+70;Belo Horizonte;SIM
+60;Três Marias;NÃO
+74;Jequitibá;SIM
+61;Paraisópolis;SIM
+86;Martins Soares;SIM
+76;Espera Feliz;SIM
+68;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+79;Belo Horizonte;SIM
+59;Delta;SIM
+51;Uberaba;SIM
+63;Bom Despacho;SIM
+54;Campo Belo;SIM
+90;Candeias;SIM
+67;Lagoa da Prata;SIM
+76;Martinho Campos;SIM
+68;Itaúna;SIM
+44;Itatiaiuçu;SIM
+22;Itatiaiuçu;NÃO
+77;Teófilo Otoni;SIM
+68;Teófilo Otoni;Não informado
+79;Águas Formosas;SIM
+85;Águas Formosas;SIM
+82;Espinosa;SIM
+75;Espinosa;SIM
+72;Rio Pardo de Minas;SIM
+72;Alpinópolis;SIM
+62;Ipatinga;SIM
+67;Caratinga;SIM
+83;Coronel Fabriciano;SIM
+85;Ipatinga;SIM
+68;Ipatinga;SIM
+54;Coronel Fabriciano;SIM
+67;Araguari;Não informado
+73;Araguari;SIM
+82;Uberlândia;SIM
+93;São João Evangelista;SIM
+69;Sobrália;NÃO
+63;Sabará;SIM
+89;Contagem;SIM
+84;Contagem;SIM
+73;Contagem;SIM
+68;Vespasiano;SIM
+86;Contagem;SIM
+36;Ouro Preto;SIM
+58;Ibirité;SIM
+72;Contagem;SIM
+68;Salinas;SIM
+65;Santa Luzia;SIM
+64;Mirabela;SIM
+63;Itapagipe;SIM
+84;Frutal;NÃO
+73;Santa Juliana;SIM
+77;Uberaba;SIM
+75;Joanésia;SIM
+66;Coronel Fabriciano;SIM
+77;Coronel Fabriciano;SIM
+53;Timóteo;Não informado
+71;Belo Oriente;SIM
+67;Caratinga;NÃO
+58;Belmiro Braga;SIM
+68;Juiz de Fora;NÃO
+81;Matias Barbosa;SIM
+85;Juiz de Fora;SIM
+90;Ouro Preto;SIM
+64;Contagem;SIM
+65;Contagem;SIM
+92;Matozinhos;SIM
+86;Esmeraldas;SIM
+66;Juatuba;SIM
+73;Central de Minas;NÃO
+37;Santa Maria do Suaçuí;Não informado
+62;Governador Valadares;SIM
+74;Governador Valadares;SIM
+80;Uberlândia;SIM
+72;Uberlândia;SIM
+56;Conceição dos Ouros;SIM
+72;Pouso Alegre;SIM
+87;Inconfidentes;SIM
+61;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+56;Belo Horizonte;NÃO
+68;Belo Horizonte;SIM
+79;Belo Horizonte;SIM
+90;Belo Horizonte;SIM
+72;Belo Horizonte;SIM
+63;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+79;Belo Horizonte;SIM
+82;Belo Horizonte;SIM
+55;Belo Horizonte;SIM
+69;Belo Horizonte;SIM
+64;Belo Horizonte;SIM
+85;Belo Horizonte;SIM
+59;Belo Horizonte;SIM
+73;Belo Horizonte;SIM
+49;Belo Horizonte;SIM
+55;Belo Horizonte;SIM
+81;Belo Horizonte;NÃO
+78;Delta;SIM
+57;Ipatinga;NÃO
+84;Ipatinga;NÃO
+88;Braúnas;SIM
+61;Governador Valadares;Não informado
+60;Governador Valadares;SIM
+86;Governador Valadares;SIM
+77;Governador Valadares;Não informado
+82;Janaúba;SIM
+60;Uberlândia;SIM
+68;Uberlândia;SIM
+72;Araguari;SIM
+47;Contagem;SIM
+90;Lagoa Dourada;SIM
+72;Araguari;SIM
+89;Uberaba;SIM
+88;Pirapetinga;SIM
+54;Leopoldina;Não informado
+81;Leopoldina;Não informado
+67;Argirita;Não informado
+65;Tupaciguara;SIM
+83;Uberlândia;SIM
+80;Araguari;SIM
+69;Divinópolis;SIM
+69;Divinópolis;SIM
+64;Itapecerica;SIM
+78;Itaúna;SIM
+89;São Sebastião do Paraíso;NÃO
+68;Lavras;SIM
+66;Lavras;SIM
+79;Alfenas;SIM
+64;Uberlândia;SIM
+98;Uberlândia;SIM
+90;Uberlândia;SIM
+56;Juiz de Fora;SIM
+90;Mar de Espanha;SIM
+54;Timóteo;SIM
+47;Caratinga;Não informado
+62;Timóteo;SIM
+76;Coronel Fabriciano;NÃO
+46;Japonvar;Não informado
+87;Araguari;SIM
+60;Araguari;SIM
+87;Governador Valadares;SIM
+75;Governador Valadares;NÃO
+38;Itanhomi;SIM
+103;Pirapora;SIM
+63;Buritizeiro;SIM
+67;Betim;SIM
+84;Betim;SIM
+56;Brumadinho;SIM
+58;Brumadinho;SIM
+35;Contagem;SIM
+72;Contagem;SIM
+29;Contagem;SIM
+97;Pedro Leopoldo;SIM
+46;Pedro Leopoldo;SIM
+79;Ribeirão das Neves;SIM
+78;Ribeirão das Neves;SIM
+57;Ribeirão das Neves;SIM
+73;Ribeirão das Neves;SIM
+45;Ribeirão das Neves;SIM
+89;Ribeirão das Neves;SIM
+68;Ribeirão das Neves;SIM
+84;Ribeirão das Neves;SIM
+67;Ribeirão das Neves;SIM
+66;Ribeirão das Neves;NÃO
+73;Barbacena;SIM
+80;Igarapé;NÃO
+68;Ibirité;NÃO
+84;Ibirité;NÃO
+58;Betim;SIM
+76;Betim;SIM
+90;João Monlevade;SIM
+81;Belo Horizonte;Não informado
+67;Belo Horizonte;SIM
+78;Belo Horizonte;SIM
+72;Belo Horizonte;SIM
+101;Belo Horizonte;SIM
+72;Belo Horizonte;Não informado
+80;Belo Horizonte;Não informado
+68;Belo Horizonte;Não informado
+60;Belo Horizonte;Não informado
+82;Belo Horizonte;SIM
+89;Belo Horizonte;Não informado
+86;Belo Horizonte;SIM
+67;Belo Horizonte;Não informado
+83;Belo Horizonte;Não informado
+95;Belo Horizonte;SIM
+61;Muriaé;SIM
+42;Conceição das Alagoas;SIM
+73;São Geraldo;SIM
+63;Ubá;SIM
+94;Tabuleiro;SIM
+36;Matias Barbosa;SIM
+47;Juiz de Fora;SIM
+84;Juiz de Fora;SIM
+59;Juiz de Fora;SIM
+56;Juiz de Fora;SIM
+29;Juiz de Fora;SIM
+55;Juiz de Fora;SIM
+66;Juiz de Fora;SIM
+77;Juiz de Fora;SIM
+22;Ubá;SIM
+38;Salinas;Não informado
+67;Salinas;SIM
+91;Taiobeiras;Não informado
+48;Montes Claros;Não informado
+85;Montes Claros;Não informado
+97;Montes Claros;SIM
+81;Uberlândia;SIM
+84;Uberlândia;SIM
+58;Uberlândia;NÃO
+46;Araguari;SIM
+76;São João do Oriente;SIM
+84;Coronel Fabriciano;SIM
+65;Dom Cavati;Não informado
+81;Coronel Fabriciano;NÃO
+80;Araguari;SIM
+70;Sete Lagoas;SIM
+40;Medina;NÃO
+47;Jacinto;NÃO
+90;Unaí;SIM
+49;Campos Gerais;NÃO
+84;Jeceaba;SIM
+85;Caranaíba;SIM
+52;Congonhas;NÃO
+67;Betim;SIM
+68;Contagem;NÃO
+49;Contagem;SIM
+72;Contagem;SIM
+52;Contagem;SIM
+48;Betim;SIM
+84;Contagem;SIM
+55;Ibirité;SIM
+60;Ibirité;SIM
+79;Ouro Preto;SIM
+85;Sabará;SIM
+45;Belo Horizonte;SIM
+63;Belo Horizonte;SIM
+65;Belo Horizonte;SIM
+89;Belo Horizonte;SIM
+57;Belo Horizonte;SIM
+85;Belo Horizonte;SIM
+57;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+78;Belo Horizonte;SIM
+75;Belo Horizonte;SIM
+88;Belo Horizonte;SIM
+73;Manhuaçu;NÃO
+74;Santa Margarida;SIM
+51;Muriaé;SIM
+67;Muriaé;SIM
+56;Muriaé;SIM
+79;Pedra Azul;SIM
+89;Almenara;SIM
+77;Almenara;SIM
+68;Medina;SIM
+68;Felisburgo;SIM
+38;Jordânia;NÃO
+47;Lajinha;SIM
+50;Formiga;SIM
+73;Campo Belo;SIM
+83;Campo Belo;SIM
+73;Cláudio;SIM
+78;Papagaios;SIM
+70;Uberlândia;SIM
+80;Uberlândia;SIM
+81;Uberlândia;SIM
+70;Toledo;SIM
+103;Borda da Mata;SIM
+64;Outros Estados;SIM
+92;Borda da mata;SIM
+76;Congonhal;SIM
+66;Poços de Caldas;SIM
+57;Outros Estados;SIM
+79;Carmo do Paranaíba;SIM
+62;Guaranésia;Não informado
+91;Nanuque;SIM
+52;Nanuque;Não informado
+78;Teófilo Otoni;SIM
+78;Teófilo Otoni;SIM
+85;Espinosa;SIM
+66;Coronel Fabriciano;Não informado
+56;Ipatinga;SIM
+46;Ipatinga;SIM
+73;Timóteo;SIM
+70;Boa Esperança;SIM
+87;Lavras;SIM
+77;São Joaquim de Bicas;SIM
+70;Sarzedo;SIM
+78;Caeté;SIM
+77;Betim;SIM
+70;Betim;SIM
+30;Betim;NÃO
+54;Contagem;SIM
+31;Contagem;SIM
+79;Buritis;SIM
+51;Belo Horizonte;SIM
+45;Belo Horizonte;NÃO
+79;Belo Horizonte;SIM
+70;Belo Horizonte;SIM
+80;Belo Horizonte;SIM
+54;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+88;Belo Horizonte;SIM
+66;Belo Horizonte;SIM
+89;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+51;Belo Horizonte;SIM
+70;Belo Horizonte;SIM
+77;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+56;Belo Horizonte;SIM
+56;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+77;Belo Horizonte;NÃO
+74;Belo Horizonte;SIM
+62;Belo Horizonte;SIM
+89;Belo Horizonte;SIM
+54;Belo Horizonte;SIM
+86;Piranga;SIM
+59;Muriaé;SIM
+45;Miradouro;NÃO
+50;Muriaé;SIM
+41;Buritizeiro;NÃO
+41;Santa Juliana;SIM
+36;Uberaba;Não informado
+31;Uberaba;SIM
+57;Iturama;SIM
+74;Manhuaçu;SIM
+61;Muriaé;SIM
+71;Santa Rita de Minas;SIM
+70;Ipatinga;SIM
+73;Coronel Fabriciano;Não informado
+55;Ipatinga;NÃO
+74;Santana do Paraíso;SIM
+59;Pouso Alegre;SIM
+52;Pouso Alegre;SIM
+75;Montes Claros;SIM
+43;Fruta de Leite;SIM
+34;Lambari;SIM
+69;Varginha;SIM
+63;Uberlândia;SIM
+78;Uberlândia;SIM
+54;Uberlândia;SIM
+54;Uberlândia;SIM
+60;Santa Vitória;SIM
+97;Curvelo;SIM
+77;Curvelo;NÃO
+84;Juiz de Fora;SIM
+99;Juiz de Fora;SIM
+53;Juiz de Fora;SIM
+43;Juiz de Fora;SIM
+83;Campo Belo;SIM
+76;Candeias;SIM
+75;Carmópolis de Minas;SIM
+48;Outros Estados;NÃO
+67;Nova Serrana;SIM
+59;Conceição do Mato Dentro;SIM
+43;Governador Valadares;SIM
+85;Fernandes Tourinho;SIM
+84;Central de Minas;SIM
+73;Alfenas;SIM
+81;Alfenas;SIM
+81;Alfenas;SIM
+50;Contagem;SIM
+56;Contagem;SIM
+67;Contagem;SIM
+65;Contagem;SIM
+79;Belo Horizonte;SIM
+48;Contagem;SIM
+73;Contagem;SIM
+84;Contagem;SIM
+60;Crucilândia;SIM
+87;Ibirité;SIM
+99;Ibirité;SIM
+51;Ibirité;SIM
+89;Ibirité;SIM
+36;Ribeirão das Neves;NÃO
+83;Ribeirão das Neves;SIM
+72;Ribeirão das Neves;SIM
+77;Ribeirão das Neves;SIM
+50;Ribeirão das Neves;SIM
+47;Ribeirão das Neves;SIM
+74;São José da Lapa;SIM
+101;Bonfinópolis de Minas;SIM
+74;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+72;Ribeirão das Neves;SIM
+75;Belo Horizonte;SIM
+88;Belo Horizonte;NÃO
+65;Belo Horizonte;SIM
+78;Belo Horizonte;SIM
+85;Belo Horizonte;SIM
+54;Pompéu;SIM
+74;Uberaba;SIM
+74;Uberaba;SIM
+60;Curvelo;SIM
+90;Maria da Fé;NÃO
+75;Timóteo;SIM
+68;Ipatinga;SIM
+92;Ipatinga;SIM
+74;Timóteo;Não informado
+49;Coronel Fabriciano;SIM
+56;Iapu;NÃO
+62;Ipatinga;SIM
+93;Ipatinga;NÃO
+60;Santa Cruz de Minas;SIM
+74;Bom Sucesso;SIM
+87;Uberlândia;SIM
+70;Uberlândia;SIM
+79;Uberlândia;SIM
+74;Araguari;NÃO
+63;Uberlândia;SIM
+75;Uberlândia;SIM
+93;Uberlândia;SIM
+107;Uberlândia;SIM
+63;Janaúba;SIM
+33;Janaúba;Não informado
+81;Curral de Dentro;SIM
+57;Monte Azul;SIM
+60;Além Paraíba;NÃO
+80;Recreio;Não informado
+75;Cataguases;Não informado
+69;Cataguases;Não informado
+65;Cataguases;Não informado
+68;Cataguases;Não informado
+71;Volta Grande;Não informado
+77;Gouveia;SIM
+80;Ipatinga;SIM
+57;Governador Valadares;SIM
+62;Governador Valadares;SIM
+63;Governador Valadares;SIM
+78;Teófilo Otoni;SIM
+59;Águas Formosas;SIM
+74;Ouro Verde de Minas;SIM
+61;Teófilo Otoni;SIM
+54;Lagoa Santa;SIM
+61;Piedade dos Gerais;NÃO
+80;Santa Luzia;Não informado
+88;Santa Luzia;SIM
+64;Pedro Leopoldo;SIM
+46;Ribeirão das Neves;SIM
+85;Ribeirão das Neves;SIM
+93;Ribeirão das Neves;SIM
+52;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+59;Belo Horizonte;SIM
+71;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+89;Belo Horizonte;SIM
+80;Belo Horizonte;SIM
+87;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+80;Belo Horizonte;SIM
+77;Belo Horizonte;SIM
+75;Belo Horizonte;SIM
+88;Conceição das Alagoas;Não informado
+76;Uberaba;SIM
+57;Uberaba;SIM
+83;Conceição das Alagoas;SIM
+71;Uberlândia;SIM
+60;Muriaé;NÃO
+61;Janaúba;SIM
+56;Paracatu;Não informado
+74;Unaí;SIM
+71;Unaí;SIM
+44;Unaí;Não informado
+55;São Joaquim de Bicas;SIM
+77;Betim;SIM
+66;Timóteo;Não informado
+86;Ipaba;Não informado
+64;Dom Cavati;Não informado
+32;Uberaba;SIM
+79;São Gonçalo do Rio Abaixo;SIM
+64;Araguari;SIM
+84;Veríssimo;SIM
+75;Planura;SIM
+98;Uberaba;SIM
+82;Frutal;SIM
+43;Conceição das Alagoas;Não informado
+82;Visconde do Rio Branco;SIM
+80;Juiz de Fora;SIM
+65;Juiz de Fora;SIM
+51;Juiz de Fora;Não informado
+77;Juiz de Fora;NÃO
+80;Ouro Branco;SIM
+0;Montes Claros;Não informado
+88;Governador Valadares;SIM
+65;Governador Valadares;SIM
+87;Governador Valadares;SIM
+67;Governador Valadares;SIM
+69;Governador Valadares;SIM
+63;Uberlândia;SIM
+36;Uberlândia;NÃO
+75;Uberlândia;SIM
+50;Passos;NÃO
+58;Pratápolis;SIM
+66;Muriaé;SIM
+52;Uberlândia;Não informado
+77;Várzea da Palma;NÃO
+71;Pratápolis;NÃO
+68;Muriaé;NÃO
+71;Uberlândia;SIM
+69;Uberlândia;NÃO
+45;Uberlândia;SIM
+66;Espinosa;SIM
+74;Matias Barbosa;SIM
+70;Juiz de Fora;SIM
+63;Lima Duarte;SIM
+65;Matias Barbosa;SIM
+69;Juiz de Fora;SIM
+79;Sarzedo;SIM
+85;Alfenas;SIM
+70;Conceição da Aparecida;SIM
+72;Outros Estados;SIM
+53;Outros Estados;SIM
+58;Outros Estados;SIM
+0;Nova Serrana;SIM
+82;Nova Serrana;SIM
+91;Divinópolis;SIM
+89;Santana do Jacaré;NÃO
+78;Pará de Minas;SIM
+89;Pará de Minas;SIM
+67;Jacutinga;SIM
+81;Poços de Caldas;SIM
+88;Borda da Mata;SIM
+79;Outros Estados;SIM
+64;Belo Horizonte;SIM
+82;Belo Horizonte;SIM
+44;Belo Horizonte;SIM
+82;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+76;Belo Horizonte;NÃO
+70;Belo Horizonte;SIM
+79;Belo Horizonte;SIM
+70;Belo Horizonte;SIM
+70;Belo Horizonte;SIM
+72;Belo Horizonte;SIM
+56;Belo Horizonte;SIM
+75;Belo Horizonte;SIM
+79;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+79;Belo Horizonte;SIM
+78;Belo Horizonte;SIM
+87;Belo Horizonte;SIM
+53;Belo Horizonte;SIM
+93;Belo Horizonte;SIM
+65;Belo Horizonte;SIM
+66;Belo Horizonte;SIM
+85;Belo Horizonte;SIM
+72;Belo Horizonte;SIM
+86;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+82;Belo Horizonte;SIM
+86;Belo Horizonte;SIM
+95;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+87;Belo Horizonte;SIM
+55;Belo Horizonte;SIM
+92;Belo Horizonte;SIM
+80;Belo Horizonte;SIM
+63;Baldim;SIM
+70;Sete Lagoas;SIM
+75;Leopoldina;Não informado
+64;Recreio;Não informado
+56;Cataguases;Não informado
+89;Cataguases;Não informado
+61;Frutal;SIM
+58;Iturama;Não informado
+76;Santa Juliana;Não informado
+63;Pirajuba;Não informado
+67;Santa Juliana;Não informado
+94;Araxá;SIM
+54;Uberaba;SIM
+89;Uberlândia;SIM
+49;Uberlândia;SIM
+61;Uberlândia;SIM
+66;Ipatinga;SIM
+67;Caratinga;NÃO
+73;Timóteo;NÃO
+98;Timóteo;SIM
+70;Bom Jesus do Galho;SIM
+56;Coronel Fabriciano;SIM
+64;Ipatinga;NÃO
+77;Ipatinga;NÃO
+85;Timóteo;SIM
+38;Caratinga;SIM
+90;Ipatinga;NÃO
+50;Ponto dos Volantes;SIM
+85;Novo Oriente de Minas;SIM
+85;Teófilo Otoni;SIM
+73;Nanuque;SIM
+52;Ataléia;Não informado
+78;Nanuque;SIM
+88;Fruta de Leite;Não informado
+85;Montes Claros;SIM
+85;Espinosa;SIM
+74;Uberlândia;SIM
+82;Uberlândia;SIM
+78;Juiz de Fora;SIM
+72;Matias Barbosa;SIM
+81;Betim;SIM
+52;Betim;SIM
+66;Betim;SIM
+60;Betim;SIM
+40;Betim;SIM
+70;Betim;SIM
+50;Betim;SIM
+74;Betim;SIM
+51;Betim;SIM
+61;Contagem;SIM
+74;Contagem;SIM
+65;Contagem;SIM
+78;Contagem;SIM
+83;Contagem;SIM
+89;Contagem;SIM
+71;Contagem;SIM
+55;Contagem;Não informado
+75;Esmeraldas;SIM
+84;Ribeirão das Neves;SIM
+43;Ribeirão das Neves;SIM
+38;Ribeirão das Neves;SIM
+89;Ribeirão das Neves;SIM
+72;Ribeirão das Neves;SIM
+76;Ribeirão das Neves;SIM
+69;Ribeirão das Neves;SIM
+67;Ribeirão das Neves;SIM
+82;Ribeirão das Neves;SIM
+65;Sabará;SIM
+64;Santa Luzia;SIM
+68;Itapeva;SIM
+97;Alfenas;SIM
+63;Alfenas;SIM
+65;Alfenas;SIM
+75;Unaí;NÃO
+59;Unaí;SIM
+65;Belo Horizonte;SIM
+90;Belo Horizonte;SIM
+71;Belo Horizonte;SIM
+80;Belo Horizonte;SIM
+88;Belo Horizonte;SIM
+72;Belo Horizonte;SIM
+75;Belo Horizonte;SIM
+52;Belo Horizonte;SIM
+68;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+71;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+88;Belo Horizonte;SIM
+91;Belo Horizonte;SIM
+41;Belo Horizonte;SIM
+89;Belo Horizonte;SIM
+95;Belo Horizonte;SIM
+93;Belo Horizonte;SIM
+61;Belo Horizonte;SIM
+92;Belo Horizonte;SIM
+89;Riacho dos Machados;Não informado
+78;Ipanema;SIM
+82;Manhuaçu;SIM
+69;Matipó;SIM
+77;Santa Margarida;SIM
+67;Alto Jequitibá;SIM
+84;Divinésia;SIM
+76;Minas Novas;SIM
+70;Tupaciguara;NÃO
+77;Tupaciguara;Não informado
+89;São Francisco;SIM
+74;Juiz de Fora;SIM
+96;Juiz de Fora;SIM
+65;Juiz de Fora;SIM
+86;Juiz de Fora;SIM
+90;Campos Altos;SIM
+61;Iturama;SIM
+77;Frutal;SIM
+56;Conceição das Alagoas;SIM
+77;Itapagipe;SIM
+68;Conceição das Alagoas;SIM
+89;Uberaba;SIM
+83;Uberlândia;SIM
+54;Outros Estados;SIM
+79;Montes Claros;SIM
+70;Itapeva;SIM
+69;Extrema;SIM
+88;Monte Carmelo;SIM
+43;Uberlândia;SIM
+72;Uberlândia;SIM
+59;Uberlândia;SIM
+0;Santa Bárbara;NÃO
+95;Aimorés;SIM
+66;Ouro Branco;NÃO
+91;Alfenas;SIM
+36;Betim;NÃO
+72;Betim;SIM
+60;Betim;SIM
+68;Betim;SIM
+93;Betim;SIM
+75;Betim;SIM
+67;Betim;SIM
+68;Contagem;SIM
+39;Belo Horizonte;SIM
+85;Contagem;SIM
+82;Contagem;SIM
+58;Contagem;Não informado
+80;Contagem;SIM
+64;Contagem;SIM
+86;Contagem;SIM
+81;Contagem;SIM
+59;Contagem;SIM
+80;Ibirité;Não informado
+72;Ibirité;Não informado
+80;Ibirité;SIM
+84;Ibirité;SIM
+67;Ibirité;SIM
+69;Ibirité;SIM
+69;Jaboticatubas;SIM
+77;Mariana;SIM
+74;Belo Horizonte;SIM
+39;Belo Horizonte;SIM
+29;Belo Horizonte;Não informado
+79;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+66;Belo Horizonte;SIM
+66;Belo Horizonte;SIM
+52;Belo Horizonte;SIM
+82;Belo Horizonte;SIM
+89;Belo Horizonte;SIM
+65;Belo Horizonte;SIM
+63;Belo Horizonte;SIM
+75;Belo Horizonte;Não informado
+68;Belo Horizonte;SIM
+42;Belo Horizonte;SIM
+89;Belo Horizonte;SIM
+52;Belo Horizonte;NÃO
+67;Belo Horizonte;NÃO
+52;Manhumirim;NÃO
+35;Ervália;NÃO
+92;Conceição das Alagoas;SIM
+46;Iturama;SIM
+75;Araxá;SIM
+63;Iturama;Não informado
+59;Ubá;SIM
+72;Uberlândia;SIM
+41;Uberlândia;SIM
+38;Uberlândia;NÃO
+57;Uberlândia;SIM
+62;Ataléia;Não informado
+73;Poté;SIM
+49;Nanuque;SIM
+74;Teófilo Otoni;Não informado
+41;Montes Claros;SIM
+77;Araguari;SIM
+74;Araguari;SIM
+71;Araguari;Não informado
+59;Aguanil;SIM
+54;Campo Belo;SIM
+73;Cláudio;SIM
+67;Divinópolis;SIM
+78;Divinópolis;SIM
+87;Divinópolis;SIM
+78;Divinópolis;SIM
+66;Lagoa da Prata;SIM
+71;Leandro Ferreira;SIM
+84;Pará de Minas;SIM
+67;Piracema;NÃO
+57;Perdigão;SIM
+81;Nova Serrana;SIM
+96;Alfenas;SIM
+80;Ipatinga;SIM
+67;Timóteo;SIM
+76;Timóteo;SIM
+63;Caratinga;NÃO
+90;Ipanema;SIM
+79;Manhumirim;SIM
+83;Espera Feliz;SIM
+64;Esmeraldas;SIM
+71;Igarapé;SIM
+61;Pedro Leopoldo;SIM
+64;Ribeirão das Neves;SIM
+48;Ribeirão das Neves;SIM
+41;Ribeirão das Neves;SIM
+57;Ribeirão das Neves;SIM
+88;Ribeirão das Neves;SIM
+67;Ribeirão das Neves;SIM
+51;Ribeirão das Neves;NÃO
+41;Ribeirão das Neves;SIM
+84;Sabará;SIM
+67;Sabará;SIM
+68;Santa Luzia;SIM
+38;São José da Lapa;SIM
+60;São José da Lapa;SIM
+72;Santa Luzia;SIM
+59;Vespasiano;SIM
+46;Vespasiano;SIM
+75;Ubá;SIM
+79;Muriaé;NÃO
+63;Almenara;SIM
+84;Rubim;NÃO
+83;Belo Horizonte;SIM
+71;Belo Horizonte;SIM
+104;Belo Horizonte;SIM
+86;Belo Horizonte;SIM
+74;Belo Horizonte;SIM
+92;Belo Horizonte;SIM
+65;Belo Horizonte;SIM
+68;Belo Horizonte;NÃO
+62;Belo Horizonte;NÃO
+74;Belo Horizonte;SIM
+82;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+54;Belo Horizonte;NÃO
+89;Belo Horizonte;SIM
+86;Belo Horizonte;SIM
+73;Rio Casca;Não informado
+67;Ponte Nova;Não informado
+65;Ponte Nova;Não informado
+69;Raul Soares;Não informado
+44;Uberaba;SIM
+77;Uberaba;SIM
+78;Santo Antônio do Jacinto;SIM
+61;Divisópolis;SIM
+62;Ipatinga;SIM
+78;Coronel Fabriciano;SIM
+80;Ipatinga;NÃO
+88;Periquito;SIM
+56;Ipatinga;SIM
+85;Bugre;Não informado
+71;Timóteo;SIM
+84;Timóteo;NÃO
+78;Santana do Paraíso;SIM
+86;Timóteo;SIM
+102;Dom Cavati;SIM
+65;Ipatinga;SIM
+78;Ipatinga;SIM
+55;Ipatinga;SIM
+60;Ipatinga;NÃO
+88;Ipatinga;SIM
+79;Timóteo;SIM
+58;Timóteo;SIM
+67;Congonhas;SIM
+99;Uberlândia;SIM
+71;Uberlândia;SIM
+71;Uberlândia;SIM
+35;Uberlândia;SIM
+87;São Tiago;SIM
+57;São João del Rei;SIM
+78;Cambuí;SIM
+81;Borda da Mata;SIM
+54;Coromandel;SIM
+46;Coromandel;SIM
+60;Abadia dos Dourados;NÃO
+83;Alfenas;SIM
+81;Alfenas;SIM
+75;Alfenas;SIM
+75;Campestre;SIM
+82;Santa Bárbara;SIM
+80;Três Corações;SIM
+50;Três Corações;Não informado
+49;Paracatu;SIM
+91;Unaí;SIM
+56;Unaí;Não informado
+65;Montes Claros;SIM
+54;Montes Claros;SIM
+73;Betim;SIM
+89;Betim;SIM
+53;Betim;SIM
+89;Betim;SIM
+57;Betim;SIM
+54;Betim;SIM
+63;Betim;SIM
+90;Ibirité;SIM
+47;Santa Luzia;NÃO
+55;Datas;SIM
+55;Belo Horizonte;SIM
+69;Belo Horizonte;SIM
+71;Belo Horizonte;SIM
+90;Belo Horizonte;SIM
+68;Belo Horizonte;SIM
+58;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+70;Belo Horizonte;SIM
+78;Belo Horizonte;SIM
+72;Belo Horizonte;SIM
+91;Belo Horizonte;SIM
+99;Belo Horizonte;SIM
+59;Belo Horizonte;SIM
+71;Belo Horizonte;NÃO
+54;Belo Horizonte;SIM
+85;Belo Horizonte;SIM
+92;Belo Horizonte;SIM
+84;Belo Horizonte;SIM
+96;Belo Horizonte;SIM
+72;Belo Horizonte;SIM
+25;Belo Horizonte;Não informado
+73;Belo Horizonte;SIM
+80;Belo Horizonte;SIM
+78;Belo Horizonte;SIM
+68;Belo Horizonte;SIM
+91;Belo Horizonte;Não informado
+90;Belo Horizonte;SIM
+76;Belo Horizonte;SIM
+51;Janaúba;Não informado
+65;Alfenas;SIM
+70;Uberaba;SIM
+61;Juiz de Fora;SIM
+68;Juiz de Fora;SIM
+82;Juiz de Fora;SIM
+55;Uberlândia;SIM
+89;Araguari;SIM
+35;Patrocínio;NÃO
+38;Rio Piracicaba;SIM
+55;Santa Bárbara;SIM
+53;Governador Valadares;SIM
+97;Governador Valadares;SIM
+85;Governador Valadares;SIM
+58;Governador Valadares;SIM
+60;Governador Valadares;SIM
+70;Governador Valadares;SIM
+86;Governador Valadares;SIM
+80;Governador Valadares;SIM
+62;Ilicínea;SIM
+73;Campanha;SIM
+43;Três Pontas;SIM
+70;Passos;SIM
+99;Careaçu;SIM
+94;Poços de Caldas;SIM
+73;Frutal;SIM
+58;Frutal;SIM
+81;Uberaba;SIM
+92;Comendador Gomes;SIM
+68;Uberaba;SIM
+64;Uberaba;SIM
+68;Montes Claros;SIM
+81;Timóteo;SIM
+75;Ipatinga;SIM
+78;Ipatinga;SIM
+81;Inhapim;SIM
+50;Ipatinga;NÃO
+47;Uberlândia;SIM
+66;Uberlândia;SIM
+76;Iraí de Minas;SIM
+74;Uberlândia;SIM
+41;Uberlândia;Não informado
+74;Uberlândia;SIM
+87;Uberlândia;SIM
+83;Uberlândia;Não informado
+42;Uberlândia;Não informado
+79;Uberlândia;SIM
+70;Governador Valadares;SIM
+83;Governador Valadares;SIM
+68;Governador Valadares;SIM
+85;Governador Valadares;SIM
+70;Governador Valadares;SIM
+51;Governador Valadares;Não informado
+69;Centralina;SIM
+71;Araguari;SIM
+70;Passos;SIM
+58;Carmo do Rio Claro;SIM
+81;São João del Rei;Não informado
+83;Matipó;SIM
+85;Manhumirim;SIM
+80;Martins Soares;SIM
+50;Teófilo Otoni;SIM
+75;Teófilo Otoni;SIM
+85;Teófilo Otoni;Não informado
+79;Novo Oriente de Minas;Não informado
+66;Uberlândia;SIM
+28;Monte Alegre de Minas;SIM
+67;São Sebastião do Paraíso;SIM
+59;Alpinópolis;SIM
+71;Almenara;SIM
+82;Santo Antônio do Jacinto;Não informado
+92;Pedra Azul;SIM
+75;Itaúna;SIM
+79;Formiga;SIM
+73;Formiga;SIM
+78;Campo Belo;SIM
+74;Formiga;SIM
+82;Formiga;SIM
+90;Formiga;NÃO
+79;Divinópolis;SIM
+67;Aguanil;SIM
+65;Campo Belo;SIM
+74;Lagoa da Prata;SIM
+83;Formiga;SIM
+80;Formiga;SIM
+74;Curvelo;SIM
+88;Curvelo;SIM
+71;Ribeirão das Neves;SIM
+82;Sete Lagoas;SIM
+76;Sete Lagoas;SIM
+87;Pouso Alegre;SIM
+65;Borda da Mata;Não informado
+86;Camanducaia;SIM
+61;Camanducaia;NÃO
+87;Raul Soares;SIM
+60;Paraisópolis;SIM
+56;Alfenas;SIM
+63;Três Corações;SIM
+74;Três Corações;SIM
+89;Três Corações;SIM
+88;Boa Esperança;SIM
+72;Governador Valadares;Não informado
+65;Santa Efigênia de Minas;Não informado
+67;Betim;SIM
+63;Betim;SIM
+55;Betim;SIM
+76;Betim;SIM
+76;Mariana;SIM
+88;Sabará;SIM
+73;Sabará;Não informado
+75;Contagem;SIM
+66;Contagem;SIM
+79;Contagem;SIM
+60;Contagem;SIM
+92;Contagem;Não informado
+72;Contagem;Não informado
+84;Contagem;Não informado
+69;Contagem;SIM
+61;Contagem;SIM
+85;Contagem;SIM
+69;Contagem;SIM
+48;Contagem;SIM
+84;Sabará;SIM
+83;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+82;Belo Horizonte;SIM
+73;Belo Horizonte;SIM
+93;Belo Horizonte;Não informado
+90;Belo Horizonte;SIM
+72;Belo Horizonte;SIM
+77;Belo Horizonte;SIM
+63;Belo Horizonte;SIM
+83;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+68;Belo Horizonte;SIM
+76;Belo Horizonte;SIM
+81;Belo Horizonte;SIM
+68;Belo Horizonte;NÃO
+34;Belo Horizonte;SIM
+75;Belo Horizonte;SIM
+67;Belo Horizonte;SIM
+96;Belo Horizonte;SIM
+85;Belo Horizonte;SIM
+63;Belo Horizonte;NÃO
+58;Belo Horizonte;SIM
+63;Belo Horizonte;SIM
+57;Belo Horizonte;SIM
+61;Sete Lagoas;SIM
+104;Sete Lagoas;SIM
+74;Três Marias;SIM
+63;São Gonçalo do Abaeté;SIM
+41;Patos de Minas;SIM
+72;Patos de Minas;SIM
+88;Patos de Minas;SIM
+79;Patos de Minas;SIM
+54;Alfenas;SIM
+62;Muriaé;SIM
+80;Senador Firmino;SIM
+79;Eugenópolis;SIM
+69;Muriaé;SIM
+63;Uberaba;SIM
+68;Uberaba;SIM
+81;Conceição das Alagoas;SIM
+64;Manhumirim;SIM
+67;Manhumirim;SIM
+51;Carangola;SIM
+50;Espera Feliz;SIM
+83;Juiz de Fora;NÃO
+69;Juiz de Fora;SIM
+72;Juiz de Fora;SIM
+70;Juiz de Fora;SIM
+75;Visconde do Rio Branco;NÃO
+67;Muriaé;SIM
+76;Uberlândia;SIM
+86;Uberlândia;SIM
+82;Montes Claros;SIM
+83;Montes Claros;SIM
+68;Monte Azul;SIM
+34;Montes Claros;Não informado
+59;Francisco Sá;SIM
+69;Ipatinga;NÃO
+62;Santana do Paraíso;SIM
+58;Entre Folhas;SIM
+53;Caratinga;NÃO
+63;Santana do Paraíso;SIM
+44;Paraopeba;SIM
+75;Governador Valadares;Não informado
+82;Borda da Mata;SIM
+76;Pouso Alegre;SIM
+77;Ilicínea;SIM
+88;Betim;SIM
+27;Contagem;Não informado
+63;Contagem;SIM
+61;Contagem;SIM
+49;Contagem;SIM
+69;Contagem;SIM
+78;Contagem;SIM
+89;Contagem;SIM
+86;Contagem;Não informado
+76;Contagem;SIM
+64;Contagem;SIM
+30;Contagem;SIM
+82;Contagem;SIM
+50;Unaí;NÃO
+45;Unaí;NÃO
+57;Paracatu;SIM
+59;Muriaé;NÃO
+76;Pratápolis;SIM
+54;Frutal;Não informado
+70;Uberaba;Não informado
+60;Uberaba;SIM
+83;Frutal;SIM
+67;Muriaé;SIM
+84;Juiz de Fora;SIM
+49;Juiz de Fora;SIM
+56;Juiz de Fora;SIM
+92;Juiz de Fora;SIM
+59;Juiz de Fora;SIM
+61;Juiz de Fora;SIM
+69;Uberlândia;SIM
+66;Uberlândia;NÃO
+79;Uberlândia;SIM
+81;Ubá;SIM
+87;Brazópolis;NÃO
+80;Borda da Mata;SIM
+78;Borda da Mata;SIM
+75;Careaçu;SIM
+96;Montes Claros;SIM
+79;Montes Claros;SIM
+92;Grão Mogol;SIM
+56;Montes Claros;Não informado
+70;Araguari;SIM
+77;Araguari;SIM
+93;Baependi;SIM
+48;Três Pontas;Não informado
+73;Três Pontas;SIM
+86;Alfenas;SIM
+91;Alfenas;SIM
+85;Muzambinho;SIM
+74;Alfenas;SIM
+45;Alfenas;SIM
+66;Conselheiro Lafaiete;NÃO
+76;Pedra Azul;SIM
+40;Unaí;SIM
+78;Bonfinópolis de Minas;SIM
+67;Betim;SIM
+79;Betim;SIM
+78;Betim;SIM
+70;Betim;SIM
+72;Brumadinho;SIM
+73;Contagem;SIM
+72;Contagem;SIM
+79;Contagem;SIM
+66;Contagem;Não informado
+75;Contagem;SIM
+56;Contagem;SIM
+82;Contagem;SIM
+68;Contagem;SIM
+38;Contagem;SIM
+70;Contagem;SIM
+83;Contagem;SIM
+62;Contagem;SIM
+76;Contagem;SIM
+57;Contagem;SIM
+69;Juatuba;SIM
+66;Pedro Leopoldo;SIM
+59;Ribeirão das Neves;SIM
+43;Ribeirão das Neves;NÃO
+58;Ribeirão das Neves;SIM
+74;Ribeirão das Neves;SIM
+67;Ribeirão das Neves;SIM
+44;Ribeirão das Neves;NÃO
+75;Sabará;SIM
+87;Sabará;SIM
+74;Brasília de Minas;SIM
+73;Outros Estados;SIM
+72;Muriaé;SIM
+67;Corinto;SIM
+89;Conquista;SIM
+80;Itaú de Minas;SIM
+94;São João Batista do Glória;Não informado
+79;Itabira;SIM
+83;Juiz de Fora;SIM
+72;Araguari;SIM
+92;Outros Estados;SIM
+92;Uberlândia;SIM
+75;Itabira;SIM
+60;Cambuí;SIM
+84;Andradas;SIM
+88;Governador Valadares;SIM
+87;Governador Valadares;SIM
+80;Governador Valadares;SIM
+61;Governador Valadares;Não informado
+62;Governador Valadares;SIM
+68;Nova Módica;SIM
+75;Periquito;Não informado
+87;Ipatinga;SIM
+72;Santana do Paraíso;SIM
+81;Córrego Novo;SIM
+52;Ibirité;NÃO
+63;Ibirité;SIM
+38;Ibirité;NÃO
+80;Ibirité;SIM
+56;Ibirité;SIM
+70;Ibirité;SIM
+81;Contagem;SIM
+77;Contagem;SIM
+80;Contagem;SIM
+23;Contagem;SIM
+89;Contagem;SIM
+53;Contagem;SIM
+76;Contagem;SIM
+89;Contagem;SIM
+89;Contagem;Não informado
+93;Ouro Preto;Não informado
+90;Betim;SIM
+89;Pedra Azul;SIM
+85;Montes Claros;SIM
+56;Ponte Nova;SIM
+75;Muriaé;SIM
+78;Uberaba;Não informado
+74;Iturama;Não informado
+74;Porto Firme;Não informado
+61;Juiz de Fora;SIM
+64;Juiz de Fora;SIM
+89;Montes Claros;SIM
+45;Passos;NÃO
+74;Passos;SIM
+70;Governador Valadares;SIM
+48;Governador Valadares;SIM
+62;Governador Valadares;Não informado
+57;Periquito;Não informado
+74;Governador Valadares;SIM
+66;Aimorés;Não informado
+40;Governador Valadares;SIM
+72;Alpercata;SIM
+78;Frei Inocêncio;SIM
+46;Governador Valadares;SIM
+64;Governador Valadares;SIM
+71;Governador Valadares;SIM
+50;Governador Valadares;SIM
+63;Governador Valadares;Não informado
+69;Governador Valadares;SIM
+83;Governador Valadares;SIM
+86;Governador Valadares;SIM
+77;Governador Valadares;SIM
+86;Governador Valadares;SIM
+63;Governador Valadares;SIM
+70;Betim;SIM
+86;Contagem;SIM
+73;Contagem;SIM
+86;Igarapé;SIM
+69;Igarapé;SIM
+57;Mateus Leme;SIM
+71;Ribeirão das Neves;SIM
+32;Ribeirão das Neves;SIM
+84;Ribeirão das Neves;SIM
+84;Ribeirão das Neves;SIM
+88;Ribeirão das Neves;SIM
+68;Ribeirão das Neves;SIM
+88;Carlos Chagas;Não informado
+62;Teófilo Otoni;SIM
+75;Nanuque;Não informado
+86;Teófilo Otoni;SIM
+80;Itambacuri;Não informado
+76;Nanuque;SIM
+78;Nanuque;SIM
+80;Braúnas;SIM
+64;Vermelho Novo;SIM
+77;Ipatinga;SIM
+84;Ipatinga;SIM
+70;Poços de Caldas;SIM
+72;Poços de Caldas;SIM
+87;Santa Rita De Caldas;SIM
+55;Toledo;SIM
+78;Toledo;SIM
+86;Três Corações;SIM
+67;Três Corações;SIM
+55;Além Paraíba;Não informado
+67;Leopoldina;Não informado
+61;Leopoldina;Não informado
+60;Leopoldina;Não informado
+62;Cataguases;Não informado
+84;Leopoldina;Não informado
+73;Uberlândia;SIM
+63;Uberlândia;SIM
+85;Uberlândia;SIM
+78;Uberlândia;SIM
+71;Ituiutaba;SIM
+67;Ituiutaba;Não informado
+88;Bom Jesus do Galho;Não informado
+95;Inhapim;SIM
+64;Ipatinga;SIM
+58;Ipatinga;Não informado
+70;Ipatinga;SIM
+65;Iapu;SIM
+91;Inhapim;SIM
+53;Coronel Fabriciano;SIM
+75;Ipatinga;SIM
+80;Ipatinga;SIM
+66;Coronel Fabriciano;SIM
+93;Timóteo;SIM
+52;Caratinga;SIM
+62;Delta;SIM
+68;Fronteira;SIM
+76;Uberaba;SIM
+83;Uberaba;SIM
+83;Ibiraci;SIM
+79;Delfinópolis;SIM
+77;Guapé;SIM
+67;João Monlevade;Não informado
+84;Maria da Fé;SIM
+77;Poços de Caldas;SIM
+81;Itajubá;SIM
+74;Itajubá;SIM
+80;Cambuí;SIM
+86;Andradas;SIM
+68;Borda da Mata;SIM
+55;Iturama;Não informado
+81;Conceição das Alagoas;Não informado
+68;Pouso Alegre;SIM
